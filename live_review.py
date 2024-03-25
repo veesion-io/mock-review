@@ -1,3 +1,9 @@
+"""
+This PR adds a new API route to the application.
+The route allows updating the label and other info of a video decoded from its URL.
+Please review the code and provide all possible feedback to improve it.
+"""
+
 import json
 import os
 from typing import Dict
